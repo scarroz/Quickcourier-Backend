@@ -364,13 +364,12 @@ sudo systemctl status postgresql
 
 ## 👥 Autores
 
-**Ingeniería de Software 2**  
-Universidad El Bosque:
-Sebastian Ernesto Carroz Añez, 
-Sophy Valentina Guiza Valencia, 
-Andres Camilo Guerrero Mateus,
-Cristhian Camilo Diaz Romero.
+Este proyecto fue desarrollado en el marco de la asignatura **Ingeniería de Software II**  
+en la **Universidad El Bosque**.
 
----
+- Sebastián Ernesto Carroz Añez  
+- Andrés Camilo Guerrero Mateus
+- Sophy Valentina Guiza Valencia
+- Cristhian Camilo Diaz Romero
 
 **¡Gracias por usar QuickCourier! 🚀📦**
