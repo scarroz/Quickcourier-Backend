@@ -365,11 +365,11 @@ sudo systemctl status postgresql
 ## 👥 Autores
 
 **Ingeniería de Software 2**  
-Universidad El Bosque \n
-Sebastian Ernesto Carroz Añez \n
-Sophy Valentina Guiza Valencia \n
-Andres Camilo Guerrero Mateus \n
-Cristhian Camilo Diaz Romero \n
+Universidad El Bosque:
+Sebastian Ernesto Carroz Añez, 
+Sophy Valentina Guiza Valencia, 
+Andres Camilo Guerrero Mateus,
+Cristhian Camilo Diaz Romero.
 
 ---
 
