@@ -371,5 +371,3 @@ en la **Universidad El Bosque**.
 - Andrés Camilo Guerrero Mateus
 - Sophy Valentina Guiza Valencia
 - Cristhian Camilo Diaz Romero
-
-**¡Gracias por usar QuickCourier! 🚀📦**
